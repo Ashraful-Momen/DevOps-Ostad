@@ -1,0 +1,48 @@
+Assignment _3
+
+Assignment: Dockerize and Deploy Express.js App Using Docker Compose with Nginx
+
+🔗 Repository to Use:
+https://github.com/roy35-909/Module-3-deployment
+This repository contains a simple Express.js server.
+
+Objectives:
+
+Your task is to containerize this Express.js app and run it alongside Nginx using Docker Compose. You will:
+
+    Dockerize the Node.js (Express) app.
+
+        Also push the image to the DockerHub
+
+    Create a docker-compose.yml file that:
+
+        Just Runs a Nginx image.
+
+        Builds and runs the Express.js app from the Dockerfile.
+
+        Starts the Express app after Nginx.
+
+    Expose the application on port 8080.
+
+    Use Docker Compose to run everything.
+
+    Verify it's working in the browser.
+
+ 
+
+Submission
+
+Ø  Take screenshots of each step and compile them into a PDF for submission.
+
+Ø  DockerHub Image Link.
+
+Ø  Add your Dockerfile and docker-compose.yml file on your git-repo and share the public link .
+
+
+সাবমিশনের গাইডলাইন
+
+Ø  Take screenshots of each step and compile them into a PDF for submission.
+
+Ø  DockerHub Image Link.
+
+Ø  Add your Dockerfile and docker-compose.yml file on your git-repo and share the public link .
