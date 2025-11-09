@@ -1,0 +1,27 @@
+Assignment_2
+
+You have a hello.txt file in your existing Git repository from your previous assignment.  . Create a Git Actions workflow to read and output the content of this file to the workflow's log when code is pushed to the main branch.
+
+ 
+
+Steps:
+
+1. Verify Existing Repository: Ensure you have a GitHub repository with a hello.txt file in the main branch.
+
+2. Create Workflow File: Create a Git Actions workflow file in the .github/workflows directory, setting the trigger for pushes to main.
+
+3. Checkout Code: Add a step to checkout the repository's code.
+
+4. Read and Output: Add a step to read the hello.txt file and print its content to the workflow's log.
+
+5. Push and Observe: Push your workflow file and observe the workflow's execution in GitHub Actions.
+
+ 
+
+Submission:
+
+Git Repository Link: Provide the public GitHub repository link.
+
+Verification:
+
+ Confirm the workflow runs and hello.txt's content is visible in the workflow's log.
